@@ -2,4 +2,5 @@
     <string name="app_name">textstoring</string>
     <string name="enter_your_text">Enter your text</string>
     <string name="save">Save</string>
+    <string name="load">Load</string>
 </resources>
